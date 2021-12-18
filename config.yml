@@ -1,0 +1,5 @@
+# Vars
+# Elastic Search Vars
+es_centos_rpm: elasticsearch.repo
+remote_user: ublanon
+
